@@ -1,5 +1,7 @@
 .vs/
 
+Log.txt
+
 # User-specific files
 *.suo
 *.user
